@@ -1,0 +1,23 @@
+# Gradle build files
+.gradle/
+build/
+
+# Ignore IntelliJ IDEA project files
+/.idea/
+/*.iml
+/out/
+
+# Ignore Eclipse project files
+/.classpath
+/.project
+/.settings/
+
+# Ignore log files and tmp files
+*.log
+*.tmp
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore generated files
